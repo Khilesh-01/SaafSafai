@@ -1,0 +1,115 @@
+.complaints-page {
+  width: 100%;
+  margin: 0;
+  padding: 2rem 3rem;
+  border-radius: 0; 
+  box-shadow: none; 
+  position: relative;
+  box-sizing: border-box;
+  
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  padding-top: 2.5rem; 
+
+}
+
+.no-complaints-message {
+  font-size: 1.2rem;
+  font-style: italic;
+  text-align: center;
+  margin-top: 3rem;
+ 
+}
+
+.complaints-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.complaint-card {
+  border: 2px solid #198754; 
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.complaint-user {
+  margin: 0 0 0.5rem 0;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+/* Complaint text */
+.complaint-text {
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+}
+
+.complaint-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.status-tag {
+  padding: 0.25rem 0.7rem;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  border: 1.5px solid;
+  user-select: none;
+}
+
+.status-pending {
+  border-color: #ffc107; 
+}
+
+.status-in-progress {
+  border-color: #0d6efd;
+}
+
+.status-resolved {
+  border-color: #198754; 
+}
+
+/* Upvotes text */
+.upvotes {
+  font-weight: 600;
+  font-size: 1rem;
+  user-select: none;
+}
+
+/* Back button in top-left corner */
+.back-button {
+  position: absolute;
+  top: 1.5rem;
+  left: 1.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  border: 2px solid #198754;
+  background: transparent;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  user-select: none;
+  z-index: 10;
+}
+
+.back-button:hover {
+  background-color: #198754;
+  color: white;
+}
+
+.complaint-date {
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #555;
+}

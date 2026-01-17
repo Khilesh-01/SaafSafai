@@ -1,0 +1,81 @@
+{
+  "elections": [
+    {
+      "type": "Vice-Presidential Election",
+      "region": "India (National)",
+      "event": "Voting",
+      "date": "2025-09-09",
+      "notes": "Notification released August 7, 2025; nomination deadline August 21, 2025" 
+    },
+    {
+      "type": "Rajya Sabha Elections",
+      "region": "India (National)",
+      "event": "Elections by State Legislatures",
+      "date": "2025-07 to 2025-08",
+      "notes": "11 seats up for election" 
+    },
+    {
+      "type": "State Assembly Election",
+      "region": "Delhi",
+      "event": "Legislative Assembly Poll",
+      "date": "2025-02-05",
+      "notes": "Results declared on 2025-02-08" 
+    },
+    {
+      "type": "State Assembly Election",
+      "region": "Bihar",
+      "event": "Legislative Assembly Poll",
+      "date": "2025-10 to 2025-11",
+      "notes": "Scheduled October–November 2025" 
+    },
+    {
+      "type": "Municipal Election",
+      "region": "Uttarakhand",
+      "event": "Municipal General Elections",
+      "date": "2025-01-23",
+      "notes": "Held on 23 January 2025 for regular municipalities" 
+    },
+    {
+      "type": "Panchayat Election",
+      "region": "Uttarakhand",
+      "event": "Panchayat General Elections (2 phases)",
+      "date": "2025-07-24 and 2025-07-28",
+      "notes": "Counting on 2025-07-31" 
+    },
+    {
+      "type": "State Assembly Election",
+      "region": "Assam",
+      "event": "Legislative Assembly Poll",
+      "date": "2026-04 to 2026-05",
+      "notes": "As per tenure ending 20 May 2026" 
+    },
+    {
+      "type": "State Assembly Election",
+      "region": "Kerala",
+      "event": "Legislative Assembly Poll",
+      "date": "2026-04 to 2026-05",
+      "notes": "Term ends 23 May 2026" 
+    },
+    {
+      "type": "State Assembly Election",
+      "region": "Tamil Nadu",
+      "event": "Legislative Assembly Poll",
+      "date": "2026-04 to 2026-05",
+      "notes": "Term ends 10 May 2026" 
+    },
+    {
+      "type": "State Assembly Election",
+      "region": "West Bengal",
+      "event": "Legislative Assembly Poll",
+      "date": "2026-04 to 2026-05",
+      "notes": "Term ends 7 May 2026" 
+    },
+    {
+      "type": "State Assembly Election",
+      "region": "Puducherry",
+      "event": "Legislative Assembly Poll",
+      "date": "2026-05 to 2026-06",
+      "notes": "Term ends 15 June 2026" 
+    }
+  ]
+}

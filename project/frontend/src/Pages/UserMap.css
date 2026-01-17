@@ -1,0 +1,8 @@
+/* Remove default Leaflet popup styling */
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background: rgb(21, 20, 20,0.2);
+}
+
+.leaflet-popup-tip {
+  display: none; /* Remove the little arrow */
+}

@@ -1,0 +1,9 @@
+.env
+../project/frontend/.env
+../project/backend/.env
+node_modules/
+../project/frontend/node_modules/
+../project/backend/node_modules/
+.hintrc
+../project/.idea
+../project/.vscode
